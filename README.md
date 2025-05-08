@@ -1,2 +1,2 @@
-# Spring-boot-Angular
-Spring boot Angular
+# Spring-boot
+Spring boot
